@@ -1,5 +1,3 @@
-System.setProperty("file.encoding", "UTF-8");
-
 /**
  *
  * @author Eric Nahas, Armando Righi
